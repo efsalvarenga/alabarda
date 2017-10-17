@@ -34,3 +34,4 @@ vignettes/*.pdf
 
 VIm files
 *.un~
+.Rproj.user
